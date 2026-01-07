@@ -1,2 +1,8 @@
 # Aulas de lógica
 Curso de lógica e programação
+ ## Aulas:
+  -aula 1
+  -aula 2
+  -aula 3
+  -aula 4
+  
